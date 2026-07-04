@@ -88,9 +88,11 @@ Key metrics shown:
 
 ## Dataset
 
-The project uses a global supply chain dataset containing order, customer, product, market, shipping, and delivery information.
+The dashboard was built using the public DataCo Supply Chain Dataset.
 
-The dataset is at order-item level, meaning one order can contain multiple product rows. Because of this, order-based metrics were calculated using distinct count of Order ID to avoid double-counting.
+The original dataset is not included in this repository because of GitHub file size limitations and customer-related fields contained in the source data.
+
+You can download the dataset from its original public source and refresh the Power BI report if required.
 
 ---
 
