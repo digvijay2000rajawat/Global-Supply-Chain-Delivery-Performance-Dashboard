@@ -1,5 +1,11 @@
 # Global Supply Chain & Delivery Performance Dashboard
 
+## Note
+
+This repository contains the Power BI report and project documentation.
+
+If the dataset is not available locally, Power BI may display a refresh warning. To use the report with live data, download the original dataset, update the data source path in Power BI, and refresh the report.
+
 ## Project Overview
 
 This Power BI project analyses global supply chain, sales, profitability, order volume, and delivery performance using a supply chain order dataset.
